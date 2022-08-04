@@ -1,0 +1,14 @@
+/* Content */
+.content {
+    grid-area: c;
+    background-color: #292929;
+}
+
+.fotka__img {
+    width: 1200px;
+    height: 500px;
+}
+
+.descriptionBlock {
+    padding: 10px;
+}
